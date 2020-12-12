@@ -13,8 +13,9 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a computer grad student from DAIICT-Gandhinagar with ICT as my major.I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years (apart from the headphone-jack part!!)</p>
-                    <p>I have started reflecting my ideas and thougths through the medium of words recently so spelling and grammer mistaks are very often.You can write me back if you spot any and don't want to live anymore :P </p>
+                    <p>I am John Michael Oliba, with a Bachelors Degree of Business Administration but decided to explore the Tech space.</p>
+                    <p>As a result I am Certified in CCNA, Huawei, Comptia A+, MCSE, MCSA, MCP and I am currently enrolling
+                        in the Google Cloud Associate Engineer Course </p>
                     </div>
                 </div>
                 </div>
